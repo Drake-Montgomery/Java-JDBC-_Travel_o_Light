@@ -7,12 +7,7 @@ public class Pessoa {
 	private String Email;
 	private String Senha;
 	
-	
-	public Pessoa(String nome, String sobrenome, String email, String senha) {
-		Nome = nome;
-		Sobrenome = sobrenome;
-		Email = email;
-		Senha = senha;
+	public Pessoa() {
 	}
 	
 	
